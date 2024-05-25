@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Jorge
+# 👋 Hi Data transformers
 
 - 👀 I’m an aerospace engineer interested in data analysis, machine learning, and generative AI.
 - 🌱 I’m currently developing RAG systems, transformer-base text clasification architectures using agents based on large language models (LLMs).
