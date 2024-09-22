@@ -13,7 +13,7 @@ I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learni
 
 
 ## Technologies
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/React-01ffff?style=flat&logo=react&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=flat&logo=nodedotjs&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
