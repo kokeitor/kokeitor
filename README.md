@@ -16,13 +16,14 @@ I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learni
 ![Static Badge](https://img.shields.io/badge/React-0ff7ed?style=flat-square&logo=React&logoColor=0ff7ed&color=000000)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-
-## Data Frameworks
+![Static Badge](https://img.shields.io/badge/Huggin_Face-%23FFD21E?style=flat-square&logo=huggingface&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/LangChain-50d1a4?style=flat-square&logo=LangChain&logoColor=ffffff)
+
+## Ai and Data Frameworks
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pydantic-%23E92063?style=flat-square&logo=pydantic&logoColor=ffffff)
 ![scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square-square&logo=scipy&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat-square-square&logo=numpy&logoColor=white)
@@ -32,12 +33,18 @@ I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learni
 ## Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/CSS-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?style=flat-square&logo=scala&logoColor=white)
 
 ## Other
 ![Static Badge](https://img.shields.io/badge/Render-000000?style=flat-square&logo=Render&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Google_Colab-%23F9AB00?style=flat-square&logo=googlecolab&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Jupyter_Notebooksb-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 
@@ -47,8 +54,6 @@ I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learni
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
-
-##
 
 
 ## Socials
