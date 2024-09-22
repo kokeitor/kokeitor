@@ -37,7 +37,7 @@ I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learni
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 
-## Languages
+## Programming languages
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=Python&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=ffffff)
