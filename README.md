@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I started my career as an aerospace engineer and have transitioned into the exciting world of programming and AI.
 
 
-![Static Badge](https://img.shields.io/badge/React-ffffff?logo=React&logoColor=ffffff&color=53e8e8)
+![Static Badge](https://img.shields.io/badge/React-0ff7ed?style=flat&logo=React&logoColor=0ff7ed&color=000000)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
