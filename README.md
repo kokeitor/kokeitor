@@ -1,12 +1,14 @@
-# 👋 Hi Data transformers
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Data transformers
+=============================================================================================================================
 
-- 👀 I’m an aerospace engineer interested in data analysis, machine learning, and generative AI.
-- 🌱 I’m currently developing RAG systems, transformer-base text clasification architectures using agents based on large language models (LLMs).
-- 💞️ I’m looking to collaborate on projects involving machine learning, data science, and generative AI.
-- 🚀 In this repository, I will be developing end-to-end projects based on RAG, machine learning, multilabel clasification texts problems and LLM fine-tuning. [lot of PYTHON here] :)
-- 📫 How to reach me: jresino143@gmail.com | linkedin.com/in/jorgeresinomartin 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my career as an aerospace engineer and have transitioned into the exciting world of programming and AI.
+Welcome to my page! I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learning, and generative AI.
+
+* 🌍  I'm based in Madrid, Spain
+* 🌱 I’m currently developing RAG systems, transformer-base text clasification architectures using agents based on large language models (LLMs).
+* 💞️ I’m looking to collaborate on projects involving machine learning, data science, and generative AI.
+* 🚀 In this repository, I will be developing end-to-end projects based on RAG, machine learning, multilabel clasification texts problems and LLM fine-tuning. [lot of PYTHON here] :)
+* 📫 How to reach me: jresino143@gmail.com | linkedin.com/in/jorgeresinomartin 
+* ⚡ Fun fact: I started my career as an aerospace engineer and have transitioned into the exciting world of programming and AI.
 
 
 ## Technologies
@@ -16,16 +18,8 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-
 
 ## Data Frameworks
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square-square&logo=scipy&logoColor=%white)
@@ -48,23 +42,6 @@
 kokeitor/kokeitor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Data transformers
-=============================================================================================================================
-
-Welcome to my page! I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learning, and generative AI.
-
-* 🌍  I'm based in Madrid, Spain
-* ✉️  You can contact me at [jorgeresino143@gmail.com](mailto:jorgeresino143@gmail.com)
-- 🌱 I’m currently developing RAG systems, transformer-base text clasification architectures using agents based on large language models (LLMs).
-- 💞️ I’m looking to collaborate on projects involving machine learning, data science, and generative AI.
-- 🚀 In this repository, I will be developing end-to-end projects based on RAG, machine learning, multilabel clasification texts problems and LLM fine-tuning. [lot of PYTHON here] :)
-- 📫 How to reach me: jresino143@gmail.com | linkedin.com/in/jorgeresinomartin 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I started my career as an aerospace engineer and have transitioned into the exciting world of programming and AI.
-
-### Skills
 
 
 <p align="left">
