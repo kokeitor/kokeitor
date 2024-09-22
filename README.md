@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Data transformers
 =============================================================================================================================
 
-Welcome to my page! I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learning, and generative AI.
+Welcome to my page! 
+I'm Jorge, Aerospace and AI engineer interested in data analysis, machine learning, and generative AI.
 
 * 🌍  I'm based in Madrid, Spain
 * 🌱 I’m currently developing RAG systems, transformer-base text clasification architectures using agents based on large language models (LLMs).
@@ -20,6 +21,7 @@ Welcome to my page! I'm Jorge, Aerospace and AI engineer interested in data anal
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 
 ## Data Frameworks
+![Static Badge](https://img.shields.io/badge/LangChain-50d1a4?style=flat-square&logo=LangChain&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square-square&logo=scipy&logoColor=%white)
@@ -49,9 +51,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-### Badges
 
-<b>Top Repositories</b>
+## Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/kokeitor/BOE-RAPTOR-Dimensional-RAG" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kokeitor&repo=BOE-RAPTOR-Dimensional-RAG&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kokeitor/chatbot-boe-frontend-react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kokeitor&repo=chatbot-boe-frontend-react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/kokeitor/Custom-Multi-Agent-Recruiter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kokeitor&repo=Custom-Multi-Agent-Recruiter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/kokeitor/chatbot-boe-backend-fastapi" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kokeitor&repo=chatbot-boe-backend-fastapi&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div>
